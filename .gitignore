@@ -1,0 +1,10 @@
+# Single self-contained HTML file - nothing to build.
+
+.env
+.env.local
+!.env.example
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
